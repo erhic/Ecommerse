@@ -39,7 +39,7 @@ body {
 
 .category {
     text-decoration: none;
-    color: white;
+    color: black;
     display: block;
 }
 
@@ -50,4 +50,27 @@ body {
 
 .category {
     align-items: center;
+    border-bottom: solid 0.5px rgb(116, 115, 115);
+    font-weight: 350;
+    line-height: 3.0rem;
 }
+
+.allcart {
+    padding: 10px;
+    margin-left: 0px !important;
+}
+
+#item-nos {
+    float: right;
+    border-radius: 50px;
+    background-color: grey;
+    color: white;
+    font-size: 1.0em;
+}
+
+.catgry {
+    box-shadow: 0px 5px 4px 4px rgb(201, 200, 200)
+}
+
+
+/* hero section end */
