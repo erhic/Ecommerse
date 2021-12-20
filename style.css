@@ -33,3 +33,21 @@ body {
 
 
 /* header styling end */
+
+
+/* all category section */
+
+.category {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+#allcategory-image {
+    align-items: flex-end;
+    margin-left: 50px;
+}
+
+.category {
+    align-items: center;
+}
