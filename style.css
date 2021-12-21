@@ -74,3 +74,30 @@ body {
 
 
 /* hero section end */
+
+
+/* 
+#card-button,
+.card-text,
+.card-title {
+    text-align: center;
+    justify-items: center;
+} */
+
+.image {
+    align-items: center;
+}
+
+#item {
+    box-shadow: 0px 6px 8px -3px rgb(0 0 0/0.2)
+}
+
+#p {
+    line-height: 0.8rem;
+}
+
+.featured {
+    padding: 2px;
+    width: 24%;
+    text-align: center;
+}
